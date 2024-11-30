@@ -23,4 +23,9 @@ Concrete datasets
 
 # Workload
 
-Due to 1. the sequential dependencies of such a project and 2. the fact that we all want to contribute to as much aspects of the project as possible, we will work sequentially. This means that Person 1 will work around 10h on the project, afterwards Person 2, and so on. This means that we have to on the one hand keep track of the number of rounds provided by each person, and also we should try to keep periods between two "shifts"as small as possible in order to have enough time in the end. Most of the work will be done during the lecture-free christmas time.
+Due to 
+
+1. the sequential dependencies of such a project and
+2. the fact that we all want to contribute to as much aspects of the project as possible,
+
+we will work sequentially. This means that Person 1 will work around 10h on the project, afterwards Person 2, and so on. This means that we have to on the one hand keep track of the number of rounds provided by each person, and also we should try to keep periods between two "shifts"as small as possible in order to have enough time in the end. Most of the work will be done during the lecture-free christmas time.
