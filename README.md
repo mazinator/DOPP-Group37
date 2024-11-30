@@ -1,6 +1,6 @@
 # DOPP-Group37
 
-# Questions
+# Questions and References to corresponding datasets
 How is the adoption of renewable energy in Europe evolving? 
 * Renewable energy adoption trends over years in different countries and sectors [1]
 * Get context on how renewable energy integrates into the overall energy mix and consumption patterns [3,4]
@@ -20,3 +20,7 @@ Concrete datasets
 2. [Eurostat - Electricity production capacities for renewables and wastes](https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epcrw__custom_13973000/default/table?lang=en): Statistics on renewable energy production and consumption, including breakdowns by energy type (wind, solar, hydro, biomass) and country.
 3. [Eurostat - Simplified energy balances](https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_s__custom_13973102/default/table?lang=en): Energy balance sheets for EU countries, including energy production, imports, exports, and consumption by fuel type and sector.
 4. [Eurostat - Supply and transformation of solid fossil fuels](https://ec.europa.eu/eurostat/databrowser/view/nrg_cb_sffm/default/table?lang=en): Energy balance sheets for EU countries (as in dataset 3) but for solid fossils (coal).
+
+# Workload
+
+Due to 1. the sequential dependencies of such a project and 2. the fact that we all want to contribute to as much aspects of the project as possible, we will work sequentially. This means that Person 1 will work around 10h on the project, afterwards Person 2, and so on. This means that we have to on the one hand keep track of the number of rounds provided by each person, and also we should try to keep periods between two "shifts"as small as possible in order to have enough time in the end. Most of the work will be done during the lecture-free christmas time.
