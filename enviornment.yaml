@@ -1,10 +1,16 @@
-name: doop
+name: test
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python=3.12
   - ipykernel
-  - pandas
-  - openpyxl
-  - numpy
+  - pip
+  - pip:
+    - seaborn
+    - matplotlib
+    - numpy
+    - pandas
+    - openpyxl
+    - nbformat
+    - plotly
